@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+### Jorge Maroto
+<a href="https://www.linkedin.com/in/jmaroto/">
+  <img align="left" alt="Jorges's LinkedIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
+<br /><br />
+
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=marojor&show_icons=true)](https://github.com/marojor)
